@@ -1,0 +1,5 @@
+parm *top
+trajin *PRODUCTION_1.crd
+distance dist1 :69@HG :236@C1 out dist_CysH_VMMC.dat
+run
+quit

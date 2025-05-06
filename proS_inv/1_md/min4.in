@@ -1,0 +1,13 @@
+Stage 1 - minimisation of structure
+ &cntrl
+  imin=1,
+  maxcyc=10000,
+  ncyc=2500,
+  cut=10,
+  ntb=1,
+  ntr=1,
+  ntpr=1000,
+  restraint_wt=5,
+  restraintmask=':1-236@CA'
+ /
+

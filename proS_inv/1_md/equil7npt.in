@@ -1,0 +1,17 @@
+Simulated annealing protocol
+ &cntrl
+   imin=0,nmropt=1,
+   ntx=5, irest=1,
+   ntpr=50000,ntwr=50000,iwrap=1,
+   ntwx=50000,ioutfm=1,
+   nstlim=100000,dt=0.001,
+   ntt=3,temp0=300,ig=-1,gamma_ln=2.0,
+   ntp=1,ntb=2,
+   ntc=2,
+   ntf=2,cut=10.0,
+   ntr=1,
+   restraint_wt=5,
+   restraintmask=':1-236@CA'
+/
+ &wt TYPE='END'
+/
