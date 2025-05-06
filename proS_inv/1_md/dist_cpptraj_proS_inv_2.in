@@ -1,0 +1,5 @@
+parm 3ixl_CLGIPL_methyl_proS_inv_complex.top
+trajin 3ixl_CLGIPL_methyl_proS_inv_complex_PRODUCTION_2_first_100.crd
+distance dist1 :69@HG :236@C1 out proS_inv_dist_2.dat
+run
+quit
