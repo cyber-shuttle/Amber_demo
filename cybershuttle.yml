@@ -1,7 +1,7 @@
 project:
   name: "Amber_demo"
   description: "CLGiPL_Methyl"
-  homepage: https://github.com/cyber-shuttle/MatterTune
+  homepage: https://github.com/cyber-shuttle/Amber_demo
   authors:
     - gyula.hoffka@compchem.lu.se
   tags:
